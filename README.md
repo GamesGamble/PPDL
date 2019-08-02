@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 The PPDL needs PHP (7.3.8 recommended), a Webserver of your Choice and also an Database of your Choice.
 
-<a href="https://www.php.net/downloads.php">PHP 7.3.8 Downloads</a><br>
+<a href="https://www.php.net/downloads.php">PHP 7.3.8</a><br>
 <a href="https://httpd.apache.org/">Apache Webserver</a><br>
 <a href="https://mariadb.org/">MariaDB</a><br>
 
