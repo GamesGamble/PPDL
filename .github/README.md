@@ -25,7 +25,7 @@ extension=pdo_mysql
 
 Then you need to install a Webserver of your Choice (Install Instructions vary between the different Webservers).
 
-And then install a Database Program of your Choice (Install Instructions vary between the different Webservers).
+And then install a Database Program of your Choice (Install Instructions vary between the different Databases).
 Note: We used MariaDB, when using other Database Software as MYSQLi-Compatible ones, you may need to change php plugins and change some database settings in the PPDL.
 
 ## Contributing
